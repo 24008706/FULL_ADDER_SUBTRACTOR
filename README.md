@@ -45,15 +45,20 @@ Write the detailed procedure here
 **Program:**
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+![WhatsApp Image 2025-04-21 at 19 09 42_9cd2d20b](https://github.com/user-attachments/assets/2a9f2410-a765-4dac-a12c-000e12e46f23)
+
 */
 
 **RTL Schematic**
+![WhatsApp Image 2025-04-21 at 19 09 55_c860a050](https://github.com/user-attachments/assets/e367b228-9b56-45a9-ae67-abded36e3055)
 
 **Output Timing Waveform**
+![WhatsApp Image 2025-04-21 at 19 10 09_7e12e2f0](https://github.com/user-attachments/assets/10843236-6cb8-4a8f-a4ea-6860ce282770)
 
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
-
+To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
+created sucessfully
 
 
